@@ -78,7 +78,7 @@ yourself:
 
         <section class="hobbies">
             <h2>Hobbies and Special Interests</h2>
-            <p>[Your hobbies or special interests]</p>
+            <p>Hockey and video games</p>
         </section>
 
         <section class="career">
