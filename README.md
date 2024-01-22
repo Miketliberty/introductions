@@ -73,7 +73,7 @@ yourself:
 
         <section class="career">
             <h2>Job Responsibilities</h2>
-            <p>[Summary of your current or most recent job responsibilities]</p>
+            <p>Suprivise the loading and offloading of aircraft</p>
         </section>
 
         <section class="hobbies">
@@ -83,17 +83,17 @@ yourself:
 
         <section class="career">
             <h2>Reasons for Pursuing This Degree</h2>
-            <p>[Your reasons for pursuing the degree]</p>
+            <p></p>
         </section>
 
         <section class="course">
             <h2>Reasons for Taking This Course</h2>
-            <p>[Your reasons for taking this course]</p>
+            <p>Gain a better understanding of the systems need to run a airline</p>
         </section>
 
         <section class="fun-fact">
             <h2>Fun Fact</h2>
-            <p>[A fun fact about yourself]</p>
+            <p>I am certified to push back and tow all types of aircraft such as A320, A330, and B777</p>
         </section>
     </div>
 </body>
