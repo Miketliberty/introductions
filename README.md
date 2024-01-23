@@ -66,9 +66,9 @@ yourself:
 <body>
     <div class="container">
         <header class="main-info">
-            <h1>Your Name: Michael Liberty</h1>
-            <p>Preferred Name: Mike Liberty</p>
-            <p>Current/Recent Job Title: Ramp Supivisor</p>
+            <h1>Your Name: [Michael Liberty]</h1>
+            <p>Preferred Name: [Mike Liberty]</p>
+            <p>Current/Recent Job Title: [Ramp Supivisor]</p>
         </header>
 
         <section class="career">
